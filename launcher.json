@@ -3,7 +3,7 @@
 	"java_preferred_type": "jdk",
 	"version": "0.1.6",
 	"updater": {
-		"checksum": "8169544641548a494db203833d76f807f0a99f4c",
+		"checksum": "0193120ba1340728312960c22dbbc8afed743fb8",
 		"url": "https://launcher.sonoyuncu.network/bootstrap/updater.jar"
 	},
 	"versionControl": {
